@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![grvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=grvn&theme=cobalt&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on operators and admissionwebhooks
+- 🌱 I’m currently learning k8s, go, python
+- ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
