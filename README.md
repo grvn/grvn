@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on operators and admissionwebhooks
-- 🌱 I’m currently learning k8s, go, python
+- 🌱 I’m currently learning k8s, go, python, rust
 - ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
