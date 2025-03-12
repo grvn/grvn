@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **grvn/grvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![grvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=grvn&theme=cobalt&show_icons=true&count_private=true)
+[![GitHub grvn](https://img.shields.io/github/followers/grvn?label=follow&style=social)](https://github.com/grvn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on operators and admissionwebhooks
-- 🌱 I’m currently learning k8s, go, python, rust
+[![grvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=grvn&theme=tokyonight&show_icons=true&count_private=true&line_height=27)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&theme=tokyonight&langs_count=3)]()
+
+- 🔭 I’m currently working on a little bit of everything
+- 🌱 I’m currently learning go, rust
 - ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
