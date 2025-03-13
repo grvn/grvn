@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-[![grvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=grvn&theme=tokyonight&show_icons=true&count_private=true&line_height=27)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&theme=tokyonight&langs_count=3)]()
+<a href="https://github.com/grvn/grvn">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grvn&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=00000000&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/grvn/grvn">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&theme=catppuccin_mocha&langs_count=3&bg_color=00000000&card_width=320" />
+</a>
 
 - 🔭 I’m currently working on a little bit of everything
 - 🌱 I’m currently learning go, rust
 - ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
+- ⚡ I'm currently listening to: [Infosec Sea Shanty](https://www.youtube.com/watch?v=YRpxYZnvatM)
