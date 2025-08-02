@@ -17,16 +17,31 @@ Here are some ideas to get you started:
 
 [![GitHub grvn](https://img.shields.io/github/followers/grvn?label=follow&style=social)](https://github.com/grvn)
 
+- 🔭 I’m currently working on a little bit of everything
+- 🌱 I’m currently learning **go**, **rust**
+- ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
+- ⚡ I'm currently listening to: [Infosec Sea Shanty](https://www.youtube.com/watch?v=YRpxYZnvatM)
+
+## 🔧 Technologies & Tools
+
+<!-- Programming Languages -->
+![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23F94A00.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+<!-- Dev Tools & OS -->
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=for-the-badge&logo=voidlinux&logoColor=white)
+
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/grvn/grvn">
+<!--<a href="https://github.com/grvn/grvn">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grvn&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=00000000&rank_icon=github&include_all_commits=true" />
-</a>
+</a>-->
 <a href="https://github.com/grvn/grvn">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grvn&theme=catppuccin_mocha&langs_count=3&bg_color=00000000&card_width=320" />
 </a>
-
-- 🔭 I’m currently working on a little bit of everything
-- 🌱 I’m currently learning go, rust
-- ⚡ Fun fact: My username was given to me by my classmates at Upper Secondary school
-- ⚡ I'm currently listening to: [Infosec Sea Shanty](https://www.youtube.com/watch?v=YRpxYZnvatM)
+<a href="https://github.com/grvn/grvn">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grvn&theme=catppuccin_mocha&show_icons=true&hide_border=false&count_private=true&card_width=320" />
+</a>
