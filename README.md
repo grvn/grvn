@@ -25,14 +25,15 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 
 <!-- Programming Languages -->
-![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23F94A00.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=plastic&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23F94A00.svg?style=plastic&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 
 <!-- Dev Tools & OS -->
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=for-the-badge&logo=voidlinux&logoColor=white)
+![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
+![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
 <!--
 ## &#x1f4c8; GitHub Statistics
